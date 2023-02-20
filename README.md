@@ -1,5 +1,7 @@
 # Curso de Git y Github 🐙
 
+Este curso de Introducción a Git y GitHub es ideal para aquellos que quieran aprender a utilizar una de las herramientas más populares para el control de versiones de código y la colaboración en equipo. En este curso, aprenderás los conceptos básicos de Git y cómo utilizar GitHub para trabajar de manera efectiva en equipo, colaborar en proyectos de código abierto y gestionar tus propios proyectos de software.
+
 ## Indice
 
 * Introducción a Git y GitHub
